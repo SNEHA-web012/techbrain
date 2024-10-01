@@ -2,7 +2,7 @@
 
 ![E-Learning Website](preview.png)
 
-Welcome to **Tech Sphere**, an e-learning platform crafted to deliver a seamless and interactive learning experience. Built with **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**, this project is designed to be both user-friendly and responsive.
+Welcome to **Tech Brains**, an e-learning platform crafted to deliver a seamless and interactive learning experience. Built with **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**, this project is designed to be both user-friendly and responsive.
 
 ## 🌟 Features
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/manishkmr49/E-Learning-Website
+   git clone 
 
 2. Open the Project: Use your preferred text editor to open the project files.
 3. Launch the Website: Open the `index.html` file in your web browser to view the website.
