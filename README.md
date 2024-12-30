@@ -44,6 +44,3 @@ We welcome contributions, feature requests, and bug reports! Check out the issue
 
 ## 💡 Support
 If you find this project helpful, please give it a ⭐️ and share your feedback!
-
-## 📜 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it under the terms of the license.
