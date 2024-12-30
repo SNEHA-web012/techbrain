@@ -1,4 +1,5 @@
-# 📚 Tech Sphere: E-Learning Website
+# 📚 Tech Brain
+: E-Learning Website
 
 ![E-Learning Website](preview.png)
 
